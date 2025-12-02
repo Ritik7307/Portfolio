@@ -1,17 +1,17 @@
-# 🎬 Ritik's Portfolio - Stranger Things Themed
+#  Ritik's Portfolio - Stranger Things Themed
 
 A modern, interactive portfolio website with a **Stranger Things** inspired dark theme, featuring smooth animations, 3D effects, and an animated skills wall.
 
-## ✨ Features
+##  Features
 
-### 🎨 Design & Theme
+###  Design & Theme
 - **Stranger Things inspired dark theme** with red neon accents
 - **Glitch effects** and animated backgrounds
 - **3D card animations** with hover effects
 - **Glassmorphism** and backdrop blur effects
 - **Responsive design** for all screen sizes
 
-### 🛠️ Sections
+###  Sections
 
 1. **Hero Section**
    - Animated introduction with gradient text
@@ -22,7 +22,7 @@ A modern, interactive portfolio website with a **Stranger Things** inspired dark
    - Personal introduction and interests
    - Highlighted cards with hover effects
 
-3. **Skills Section** ⭐ NEW!
+3. **Skills Section**  NEW!
    - **Animated Skills Wall** - Stranger Things style letter display
    - Rotating highlight effect (cycles every 900ms)
    - Shows skill names below active letters
@@ -44,7 +44,7 @@ A modern, interactive portfolio website with a **Stranger Things** inspired dark
    - Social links (GitHub, LinkedIn, Email)
    - Form validation and error handling
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **React** - UI framework
 - **Vite** - Build tool and dev server
@@ -52,7 +52,7 @@ A modern, interactive portfolio website with a **Stranger Things** inspired dark
 - **EmailJS** - Contact form email service
 - **CSS3** - Custom styling with animations
 
-## 📦 Installation
+##  Installation
 
 1. **Clone the repository**
    ```bash
@@ -84,7 +84,7 @@ A modern, interactive portfolio website with a **Stranger Things** inspired dark
    npm run build
    ```
 
-## 🎯 Skills Wall Feature
+##  Skills Wall Feature
 
 The Skills section features an **animated wall display** inspired by Stranger Things:
 
@@ -115,7 +115,7 @@ setInterval(() => {
 }, 900); // Change 900 to your desired milliseconds
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ritik-portfolio/
@@ -130,7 +130,7 @@ ritik-portfolio/
 └── vite.config.js       # Vite configuration
 ```
 
-## 🎨 Customization
+##  Customization
 
 ### Colors
 Edit CSS variables in `src/App.css`:
@@ -154,7 +154,7 @@ Change the background image URL in `App.css`:
 }
 ```
 
-## 📧 Contact Form Setup
+##  Contact Form Setup
 
 The contact form uses EmailJS for sending emails. Follow these steps:
 
@@ -164,7 +164,7 @@ The contact form uses EmailJS for sending emails. Follow these steps:
 4. **Get your credentials** and add them to `.env`
 5. See `EMAILJS_SETUP.md` for detailed instructions
 
-## 🌐 Deployment
+##  Deployment
 
 ### Vercel (Recommended)
 1. Push your code to GitHub
@@ -177,18 +177,18 @@ The contact form uses EmailJS for sending emails. Follow these steps:
 2. Deploy the `dist` folder to Netlify
 3. Add environment variables in Netlify settings
 
-## 📝 License
+##  License
 
 This project is open source and available under the MIT License.
 
-## 👤 Author
+##  Author
 
 **Ritik Prajapati**
 - Email: 24mc3040@rgipt.ac.in
 - GitHub: [@Ritik7307](https://github.com/Ritik7307)
 - LinkedIn: [Ritik Prajapati](https://www.linkedin.com/in/ritik-prajapati-942799316/)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Design inspired by Stranger Things
 - Built with React and Vite
@@ -196,4 +196,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-**"Friends don't lie. Neither does clean code."** 🎬
+**"Friends don't lie. Neither does clean code."** 
